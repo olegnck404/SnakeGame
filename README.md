@@ -2,7 +2,7 @@
 
 This is a simple console-based Snake game implemented in C++. The game is built using the ncurses library for terminal graphics and input handling.
 
-## Предпосылки
+## Prerequisites
 
 Before compiling and running the game, make sure you have the following packages installed:
 
