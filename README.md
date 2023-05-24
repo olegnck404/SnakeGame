@@ -18,13 +18,13 @@ To compile the game, follow these steps:
 
 1. Open a terminal window.
 
-2. Navigate to the directory containing the source code file (`snake_game.cpp`).
+2. Navigate to the directory containing the source code file (`SnakeGame.cpp`).
 
 3. Run the following command to compile the game:
 
    ```bash
 
-   g++ -o snake_game snake_game.cpp -lncurses
+   g++ -o snake_game SnakeGame.cpp -lncurses
 
    ```
 
