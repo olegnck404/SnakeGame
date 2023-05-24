@@ -4,7 +4,7 @@ This is a simple console-based Snake game implemented in C++. The game is built 
 
 ## Предпосылки
 
-Перед компиляцией и запуском игры убедитесь, что у вас установлены следующие пакеты:
+Before compiling and running the game, make sure you have the following packages installed:
 
 - ncurses
 
