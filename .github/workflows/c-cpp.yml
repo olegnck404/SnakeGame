@@ -17,14 +17,40 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Set up C++ toolchain
-        uses: actions/setup-cpp@v2
-        with:
-          cpp-version: '14'
+        run: sudo apt-get -y install g++ cmake
 
       - name: Build and test
         run: |
           g++ -o snake SnakeGame.cpp
           ./snake
+
+
+
+
+  
+    
+     
+ 
+    
+      
+
+
+ 
+    
+
+  
+
+      
+
+      
+        
+     
+          
+
+      
+        
+         
+        
 
 
 
