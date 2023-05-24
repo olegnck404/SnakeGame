@@ -24,7 +24,7 @@ To compile the game, follow these steps:
 
    ```bash
 
-   g++ -o snake_game SnakeGame.cpp -lncurses
+   g++ -o snake SnakeGame.cpp -lncurses
 
    ```
 
@@ -36,7 +36,7 @@ To run the game, execute the following command in the terminal:
 
 ```bash
 
-./snake_game
+./snake
 
 ```
 
