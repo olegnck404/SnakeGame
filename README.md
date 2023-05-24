@@ -28,7 +28,7 @@ To compile the game, follow these steps:
 
    ```
 
-   This command will generate an executable file named `snake_game`.
+   This command will generate an executable file named `SnakeGame`.
 
 ## Execution
 
