@@ -54,4 +54,6 @@ To run the game, execute the following command in the terminal:
 
 This Snake game implementation was created as a learning exercise and is based on the classic Snake game concept.
 
+*This game was written with love and pain for a coursework on programming by Oleg Dyadechko, who stayed up all night to make.*
+
 Enjoy playing the game!
