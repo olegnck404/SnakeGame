@@ -8,7 +8,7 @@
 #include <algorithm> // Підключення бібліотеки для використання алгоритмів
 
 
-const int BOARD_WIDTH = 20; // Ширина ігрового поля
+const int BOARD_WIDTH = 90; // Ширина ігрового поля
 const int BOARD_HEIGHT = 20; // Висота ігрового поля
 
 struct Coordinate {
